@@ -1,0 +1,1 @@
+docker run -it -v "/home/anton/cv/scalabel/local-data:/opt/scalabel/local-data" -p 8686:8686 -p 6380:6379 scalabel/www     node app/dist/main.js     --config /opt/scalabel/local-data/scalabel/config.yml --max-old-space-size=8192
