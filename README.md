@@ -1,3 +1,9 @@
+### Our Changes
+- script docker-run.sh for local deployment via docker
+- convert_folder.sh converts all videos within a folder to subsampled photos
+
+All other things are kept unchanged. Original description:
+
 ### NOTE
 
 We released a new platform for visual learning from human feedback, called [nutsh](https://github.com/SysCV/nutsh). It is in active development and it covers most of the functionalies of Scalabel with many more features.
