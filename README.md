@@ -2,6 +2,8 @@
 - script docker-run.sh for local deployment via docker
 - convert_folder.sh converts all videos within a folder to subsampled photos
 
+Our pipeline: ![alt text](our-pipeline.png)
+
 All other things are kept unchanged. Original description:
 
 ### NOTE
